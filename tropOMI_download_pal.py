@@ -7,9 +7,7 @@ import argparse
 import datetime
 import requests
 import sys
-sys.path.append('/home/mas001/computer_programs/python/tropOMI/')
-import tropOMI_toolkit as trop_tool
-import tropOMI_combine as trop_comb
+
 import shutil
 import warnings
 try:
